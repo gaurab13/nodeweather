@@ -1,0 +1,25 @@
+{
+  "name": "nodeweather",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaurab13/nodeweather.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaurab13/nodeweather/issues"
+  },
+  "homepage": "https://github.com/gaurab13/nodeweather#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^5.1.0",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  }
+}
